@@ -13,6 +13,6 @@ usage backage manager pip to install jupyter notebook. Alternatively, you can us
 ```
 ## Methods
 ### Decision Tree
-Using human's iToM process, we analyze the documentation based on the word which is highly related to certain category. We are going to get importances of each vocabularies from decision tree and implement it to analyze. 
+Using human's iToM process, we analyze the documentation based on the word which is highly related to certain category. We are going to get importances of each vocabularies from decision tree and implement it to analyze. By the threshold earned by Naive Bayes, we are going to see the number of vocabulary featured by the algorithm and apply this number to decision tree's maximum features.
 ## Contribution
 Yiyeon Kim, Will Kawamoto
