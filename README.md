@@ -11,5 +11,8 @@ usage backage manager pip to install jupyter notebook. Alternatively, you can us
 ```bash
 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
 ```
+## Methods
+### Decision Tree
+Using human's iToM process, we analyze the documentation based on the word which is highly related to certain category. We are going to get importances of each vocabularies from decision tree and implement it to analyze. 
 ## Contribution
 Yiyeon Kim, Will Kawamoto
